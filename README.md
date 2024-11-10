@@ -18,13 +18,13 @@ File Selection: Uses Tkinter's askopenfilename to allow users to choose an image
     
 ## How to Use
 To set up and run the project locally, follow these steps:
-1.Clone the repository:
+1. Clone the repository:
 
-     git clone https://github.com/MParsa-Gh/Image-compression.git
+       git clone https://github.com/MParsa-Gh/Image-compression.git
 
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 
-      cd Image-compression
+       cd Image-compression
     
 
 ## Note

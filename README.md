@@ -3,7 +3,7 @@
 This script is a simple image compressor built in Python using the Pillow (PIL) library for image manipulation , Tkinter for file dialog interaction and customtkinter for GUI. The script allows users to select an image file and save it as a compressed JPEG.
 ## Features
 
-    File Selection: Uses Tkinter's askopenfilename to allow users to choose an image file from their system.
+File Selection: Uses Tkinter's askopenfilename to allow users to choose an image file from their system.
     Image Compression: The selected image is resized to its original dimensions using high-quality LANCZOS resampling to optimize compression quality. This method balances image quality and file size.
     Save as Compressed JPEG: Users can save the compressed image under a new file name. The compressed image is saved with the suffix "_compressed.JPG" in the specified location.
 
